@@ -51,11 +51,11 @@ This is a simple Java console-based application for managing student attendance.
 ## 📂 Files Included
 
 - `AttendanceSystem.java` - Main source code
-- `README.md` - Project overview and instructions
+- `README_AttendanceSystem(1).md` - Project overview and instructions
 
 ## 🧑‍🏫 Authors
 
-- Created by: Student Group - Data Structures and Algorithms Coursework
+- Created by: Student Group A- Data Structures and Algorithms Coursework
 - Instructor: Mr. Bazigu Alex
 
 ## 📃 License

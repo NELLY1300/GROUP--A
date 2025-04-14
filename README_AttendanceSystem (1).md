@@ -47,9 +47,6 @@ This is a simple Java console-based application for managing student attendance.
 - View a student’s attendance with option 3 by providing their ID.
 - Get an attendance report using option 4.
 
-## 📸 Screenshots
-
-> Add screenshots here from your terminal after you run and test the system.
 
 ## 📂 Files Included
 
